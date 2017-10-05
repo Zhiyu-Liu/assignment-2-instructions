@@ -17,7 +17,12 @@
 
     b.  Try using **dplyr** on `cmpdataLong` to "spread" this back into the wide format.
 
-3.  **Reshaping more complex examples in Python**.
+3.  **Reshaping more complex examples in Python.**
 
+    a. Take a look of the [assignment-2-complex-example-python.ipynb](assignment-2-complex-example-python.ipynb) and understand the code.
+    
+    b. Try to play with the code and make some changes.
 
-4.  **Reshaping more complex examples in R**.
+4.  **Reshaping more complex examples in R.**
+
+    a. Try to reshape the data by yourself! Update the [assignment-2-complex-example-r.ipynb](assignment-2-complex-example-r.ipynb) to reshape the same dataset we used in (3). But this time we will do it in R.
