@@ -26,3 +26,6 @@
 4.  **Reshaping more complex examples in R.**
 
     a. Try to reshape the data by yourself! Update the [assignment-2-complex-example-r.ipynb](assignment-2-complex-example-r.ipynb) to reshape the same dataset we used in (3). But this time we will do it in R.
+
+## Deadline
+Wednesday 11 October 11:00pm
