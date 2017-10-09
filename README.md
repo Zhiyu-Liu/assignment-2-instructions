@@ -7,7 +7,7 @@
 
     a.  What makes the following example "non-tidy"?
 
-    ![](https://www.dropbox.com/s/m0llqi3br0kbnou/Screenshot%202015-11-16%2013.24.15.png?dl=1)
+    ![](nontidy.png)
 
     b.  Inspect the R object [`cmpdata.RData`] from the `lecures/week02` folder.  What makes this data non-tidy?
 
